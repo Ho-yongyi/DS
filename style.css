@@ -1,0 +1,13 @@
+.object_detection
+{
+    text-align: center;
+    width: 100%;
+}
+canvas
+{
+    border: 1px solid black ;
+}
+body
+{
+    background-color: grey;
+}
